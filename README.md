@@ -1,3 +1,5 @@
+# Link para acesso: https://gustasilva5.github.io/jogoAdivinha-o/
+
 # Jogo da Adivinhação
 
 Este é um simples jogo da adivinhação onde o usuário deve adivinhar um número entre 0 e 10.
